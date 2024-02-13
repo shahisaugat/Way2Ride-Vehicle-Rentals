@@ -6,11 +6,16 @@
             <file>file:/C:/Users/shahi/Downloads/Way2Ride%20Vehicle%20Rentals%20-%20Java%20Swing/Way2Ride-VehicleRentals/src/app/vehicle/form/Dashboard.java</file>
             <file>file:/C:/Users/shahi/Downloads/Way2Ride%20Vehicle%20Rentals%20-%20Java%20Swing/Way2Ride-VehicleRentals/src/app/vehicle/theme/FlatDarkLaf.properties</file>
             <file>file:/C:/Users/shahi/Downloads/Way2Ride%20Vehicle%20Rentals%20-%20Java%20Swing/Way2Ride-VehicleRentals/src/app/vehicle/design/CustomLayoutCallBack.java</file>
+            <file>file:/C:/Users/shahi/Downloads/Way2Ride%20Vehicle%20Rentals%20-%20Java%20Swing/Way2Ride-VehicleRentals/src/app/vehicle/authentication/LoginForm.java</file>
+            <file>file:/C:/Users/shahi/Downloads/Way2Ride%20Vehicle%20Rentals%20-%20Java%20Swing/Way2Ride-VehicleRentals/src/app/vehicle/form/CouponCodes.java</file>
+            <file>file:/C:/Users/shahi/Downloads/Way2Ride%20Vehicle%20Rentals%20-%20Java%20Swing/Way2Ride-VehicleRentals/src/app/admin/form/AddNotification.java</file>
+            <file>file:/C:/Users/shahi/Downloads/Way2Ride%20Vehicle%20Rentals%20-%20Java%20Swing/Way2Ride-VehicleRentals/src/app/vehicle/component/CarItem.java</file>
+            <file>file:/C:/Users/shahi/Downloads/Way2Ride%20Vehicle%20Rentals%20-%20Java%20Swing/Way2Ride-VehicleRentals/src/app/vehicle/form/Settings.java</file>
+            <file>file:/C:/Users/shahi/Downloads/Way2Ride%20Vehicle%20Rentals%20-%20Java%20Swing/Way2Ride-VehicleRentals/src/app/vehicle/theme/FlatLaf.properties</file>
             <file>file:/C:/Users/shahi/Downloads/Way2Ride%20Vehicle%20Rentals%20-%20Java%20Swing/Way2Ride-VehicleRentals/src/app/vehicle/main/Application.java</file>
             <file>file:/C:/Users/shahi/Downloads/Way2Ride%20Vehicle%20Rentals%20-%20Java%20Swing/Way2Ride-VehicleRentals/src/app/vehicle/database/MySqlConnection.java</file>
             <file>file:/C:/Users/shahi/Downloads/Way2Ride%20Vehicle%20Rentals%20-%20Java%20Swing/Way2Ride-VehicleRentals/src/app/vehicle/form/CouponFrame.java</file>
-            <file>file:/C:/Users/shahi/Downloads/Way2Ride%20Vehicle%20Rentals%20-%20Java%20Swing/Way2Ride-VehicleRentals/src/app/vehicle/form/CouponCodes.java</file>
-            <file>file:/C:/Users/shahi/Downloads/Way2Ride%20Vehicle%20Rentals%20-%20Java%20Swing/Way2Ride-VehicleRentals/src/app/vehicle/theme/FlatLaf.properties</file>
+            <file>file:/C:/Users/shahi/Downloads/Way2Ride%20Vehicle%20Rentals%20-%20Java%20Swing/Way2Ride-VehicleRentals/src/app/vehicle/dao/ProfileChangeDAO.java</file>
         </group>
     </open-files>
 </project-private>
