@@ -25,12 +25,12 @@ It allows user to surf over a varieties of vehicles and book them at their ease 
 - Light and Dark Mode
 
 ## Screenshots
-<img src="Way2Ride-VehicleRentals/Git Images/Screenshot (1).png" alt="Login Page" width="600"/>&nbsp;
-<img src="Way2Ride-VehicleRentals/Git Images/Screenshot (2).png" alt="Settings Page" width="600"/>&nbsp;
-<img src="Way2Ride-VehicleRentals/Git Images/Screenshot (3).png" alt="Payment Gateway" width="600"/>&nbsp;
-<img src="Way2Ride-VehicleRentals/Git Images/Screenshot (4).png" alt="Home Page" width="600"/>&nbsp;
-<img src="Way2Ride-VehicleRentals/Git Images/Screenshot (5).png" alt="Feedback" width="600"/>&nbsp;
-<img src="Way2Ride-VehicleRentals/Git Images/Screenshot (6).png" alt="Two Wheeler's" width="600"/>
+<img src="Way2Ride-VehicleRentals/Git Images/Screenshot (1).png" alt="Login Page" width="500"/>&nbsp;
+<img src="Way2Ride-VehicleRentals/Git Images/Screenshot (2).png" alt="Settings Page" width="500"/>&nbsp;
+<img src="Way2Ride-VehicleRentals/Git Images/Screenshot (3).png" alt="Payment Gateway" width="500"/>&nbsp;
+<img src="Way2Ride-VehicleRentals/Git Images/Screenshot (4).png" alt="Home Page" width="500"/>&nbsp;
+<img src="Way2Ride-VehicleRentals/Git Images/Screenshot (5).png" alt="Feedback" width="500"/>&nbsp;
+<img src="Way2Ride-VehicleRentals/Git Images/Screenshot (6).png" alt="Two Wheeler's" width="500"/>
 
 ## Getting Started
 
@@ -172,7 +172,7 @@ Follow these instructions to set up the project on your local machine for testin
             System.out.println(e);
             return null;
         }
-       ```
+   ```
 
    4. Run the application
 
