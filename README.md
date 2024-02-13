@@ -25,12 +25,12 @@ It allows user to surf over a varieties of vehicles and book them at their ease 
 - Light and Dark Mode
 
 ## Screenshots
-<img src="Way2Ride-VehicleRentals/Git Images/Screenshot (1).png" alt="Login Page" width="420"/>&nbsp;
-<img src="Way2Ride-VehicleRentals/Git Images/Screenshot (2).png" alt="Settings Page" width="420"/>&nbsp;
-<img src="Way2Ride-VehicleRentals/Git Images/Screenshot (3).png" alt="Payment Gateway" width="420"/>&nbsp;
-<img src="Way2Ride-VehicleRentals/Git Images/Screenshot (4).png" alt="Home Page" width="420"/>&nbsp;
-<img src="Way2Ride-VehicleRentals/Git Images/Screenshot (5).png" alt="Feedback" width="420"/>&nbsp;
-<img src="Way2Ride-VehicleRentals/Git Images/Screenshot (6).png" alt="Two Wheeler's" width="420"/>
+<img src="Way2Ride-VehicleRentals/Git Images/Screenshot (1).png" alt="Login Page" width="400"/>&nbsp;
+<img src="Way2Ride-VehicleRentals/Git Images/Screenshot (2).png" alt="Settings Page" width="400"/>&nbsp;
+<img src="Way2Ride-VehicleRentals/Git Images/Screenshot (3).png" alt="Payment Gateway" width="400"/>&nbsp;
+<img src="Way2Ride-VehicleRentals/Git Images/Screenshot (4).png" alt="Home Page" width="400"/>&nbsp;
+<img src="Way2Ride-VehicleRentals/Git Images/Screenshot (5).png" alt="Feedback" width="400"/>&nbsp;
+<img src="Way2Ride-VehicleRentals/Git Images/Screenshot (6).png" alt="Two Wheeler's" width="400"/>
 
 ## Getting Started
 
